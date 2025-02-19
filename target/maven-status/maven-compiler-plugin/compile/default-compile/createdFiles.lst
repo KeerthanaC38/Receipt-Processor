@@ -1,0 +1,6 @@
+com\receipt\processor\model\Receipt.class
+com\receipt\processor\controller\ReceiptController.class
+com\receipt\processor\ReceiptProcessorApplication.class
+com\receipt\processor\model\Item.class
+com\receipt\processor\service\impl\ReceiptServiceImpl.class
+com\receipt\processor\service\ReceiptService.class
