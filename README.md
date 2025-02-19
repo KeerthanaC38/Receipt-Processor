@@ -13,7 +13,7 @@ This project is a receipt processing application. Below are the instructions on 
 2. Navigate into the project directory:
 
     ```bash
-   cd receipt-processor
+   cd Receipt-Processor
    ```
    
 ## Building and Running the Docker Container
